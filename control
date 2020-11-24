@@ -1,0 +1,9 @@
+Package: ru.danpashin.striges
+Name: 10Shadow
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: shad0wdev
+Author: shad0wdev
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
